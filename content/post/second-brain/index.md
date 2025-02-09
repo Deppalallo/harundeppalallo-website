@@ -52,6 +52,18 @@ renders as
   - blox-plugins-netlify-cms
   - blox-plugins-reveal
 ```
+```markmap {height="200px"}
+- PPG Calon Guru Semester 2
+  - MSE
+    - Topik I
+    - Topik II
+    - Topik III
+    - Topik IV
+  - PPA II
+  - CT
+  - PPL II
+  - ABK
+```
 
 Anh here's a more advanced mindmap with formatting, code blocks, and math:
 

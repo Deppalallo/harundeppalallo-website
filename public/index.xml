@@ -188,6 +188,20 @@
   - blox-plugins-reveal&lt;/pre&gt;
 &lt;/div&gt;
 
+&lt;div class=&#34;markmap&#34; style=&#34;height: 200px;&#34;&gt;
+
+&lt;pre&gt;- PPG Calon Guru Semester 2
+  - MSE
+    - Topik I
+    - Topik II
+    - Topik III
+    - Topik IV
+  - PPA II
+  - CT
+  - PPL II
+  - ABK&lt;/pre&gt;
+&lt;/div&gt;
+
 &lt;p&gt;Anh here&amp;rsquo;s a more advanced mindmap with formatting, code blocks, and math:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;
 &lt;pre class=&#34;chroma&#34;&gt;
@@ -278,7 +292,7 @@
 
 
 
-&lt;div id=&#34;chart-938742156&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-871346952&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -296,7 +310,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-938742156&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-871346952&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
