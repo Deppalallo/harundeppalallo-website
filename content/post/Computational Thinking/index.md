@@ -11,7 +11,6 @@ image:
   caption: 'Image : [**HDMath**]()'
 ---
 
-
 ## T1. Pemahaman Computational Thinking
 Pada bagian konsep-konsep dasar CT ini dibahas mengenai definisi CT, apa yang termasuk CT dan bukan CT (miskonsepsi CT), mengapa CT itu penting, empat fondasi CT, pembentukan disposisi CT, dan apa yang perlu dilakukan untuk dapat “mengajar” CT.
 ### Apa itu CT (*Computational Thinking*)
@@ -76,6 +75,8 @@ recognition), dan abstraksi (abstraction).
 dari persoalan-persoalan sejenis dan juga pola dari solusi-solusi yang dirancang/diimplementasikan.
 - **Abstraksi**: Abstraksi adalah proses eliminasi bagian-bagian yang tidak relevan dari suatu persoalan. Dengan abstraksi, dapat dibuat suatu blueprint penyelesaian persoalan yang dapat digunakan untuk menyelesaikan persoalanpersoalan sejenis.
 - **Algoritma**: Algoritma adalah langkah-langkah terurut untuk menyelesaikan suatu persoalan. Algoritma harus disusun dengan jelas, runtut, lengkap, efisien, dan tidak menyalahi batasan-batasan dalam persoalan tersebut.
+
+{{< youtube mUXo-S7gzds >}}
 
 ### Pembentukan Disposisi
 
