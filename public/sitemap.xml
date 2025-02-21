@@ -22,6 +22,14 @@
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:4321/tags/galeri-matematika/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/post/galeri-matematika/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:4321/tags/markdown/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -47,6 +55,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:4321/tags/hugo/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/project/math/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

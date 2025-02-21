@@ -1,6 +1,6 @@
 ---
-title: Computational Tinking
-summary: Create a personal knowledge base and share your knowledge with your peers.
+title: Computational Thinking
+summary: Computational Thinking membantu individu menghadapi persoalan sederhana maupun kompleks dalam kehidupan sehari-hari.
 date: 2025-02-10
 authors:
   - admin

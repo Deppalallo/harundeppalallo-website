@@ -345,7 +345,6 @@
       "md:grid",
       "md:grid-cols-1",
       "md:grid-cols-2",
-      "md:grid-cols-3",
       "md:grid-cols-4",
       "md:grid-cols-[200px_auto]",
       "md:hidden",
@@ -399,7 +398,6 @@
       "network-icon",
       "no-prose",
       "no-underline",
-      "object-contain",
       "object-cover",
       "object-fill",
       "opacity-0",
@@ -579,9 +577,10 @@
       "TableOfContents",
       "apa-itu-ct-computational-thinking",
       "callouts",
-      "chart-651728943",
+      "chart-847235169",
       "charts",
       "code",
+      "computational-thinking",
       "crowd-funded-open-source-software",
       "data-frames",
       "diagrams",
@@ -626,6 +625,7 @@
       "share-link-whatsapp",
       "share-link-x",
       "show-button",
+      "siapa-matematikawan-pertama-dalam-sejarah",
       "site-header",
       "spoiler-2",
       "spoiler-3",
@@ -636,6 +636,7 @@
       "themes",
       "todo-lists",
       "top",
+      "topik-i",
       "video"
     ]
   }

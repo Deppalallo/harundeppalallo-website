@@ -13,6 +13,19 @@
     </image>
     
     <item>
+      <title>Math</title>
+      <link>http://localhost:4321/project/math/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/math/</guid>
+      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;
+&lt;h1 id=&#34;computational-thinking&#34;&gt;Computational Thinking&lt;/h1&gt;
+&lt;h2 id=&#34;topik-i&#34;&gt;Topik I&lt;/h2&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+
+$$\frac{1}{2}$$</description>
+    </item>
+    
+    <item>
       <title>Pandas</title>
       <link>http://localhost:4321/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
@@ -33,7 +46,9 @@
       <link>http://localhost:4321/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;
+
+$$\frac{1}{2}$$</description>
     </item>
     
   </channel>

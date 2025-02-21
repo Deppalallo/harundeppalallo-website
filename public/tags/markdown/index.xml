@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Computational Tinking</title>
+      <title>Computational Thinking</title>
       <link>http://localhost:4321/post/computational-thinking/</link>
       <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/post/computational-thinking/</guid>
@@ -112,6 +112,30 @@ CT perlu terus dilatih melalui pendekatan mengutak-atik (tinkering), berlatih
 menciptakan sesuatu (creating), berusaha mencari akar masalah dan memperbaiki
 kesalahan tersebut (debugging), bekerja sama (collaborating), dan memiliki sikap
 pantang menyerah (persevering) (Barefoot Computing, 2020).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Galeri Matematika</title>
+      <link>http://localhost:4321/post/galeri-matematika/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/post/galeri-matematika/</guid>
+      <description>&lt;p&gt;Kemajuan ilmu pengetahuan dan teknologi menuntut pemahaman yang lebih mendalam terhadap berbagai disiplin ilmu, seperti matematika, sains, bahasa, dan filsafat. Pertanyaan-pertanyaan kritis dari berbagai bidang ini sering muncul dalam diskusi publik maupun akademik. Artikel ini hadir sebagai jawaban atas kebutuhan tersebut, menggabungkan penjelasan konseptual dan aplikatif melalui format tanya-jawab lintas disiplin. Dengan pendekatan ini, diharapkan pembaca dapat memperluas wawasan serta memahami keterkaitan antara berbagai ilmu secara lebih komprehensif.&lt;/p&gt;
+&lt;h3 id=&#34;siapa-matematikawan-pertama-dalam-sejarah&#34;&gt;Siapa Matematikawan Pertama dalam Sejarah?&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Mengenal Thales: Filsuf dan Matematikawan Pertama Dunia&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mari kita berkenalan dengan Thales, seorang tokoh legendaris dari Yunani kuno yang hidup pada abad ke-6 SM. Pada masanya, masyarakat Yunani lebih memercayai mitos daripada menggunakan logika untuk menjelaskan fenomena alam. Namun, Thales membawa angin perubahan. Ia mencoba memahami asal-usul alam semesta dan gejala alam dengan cara yang rasional, tanpa bergantung pada cerita mitologis. Karena pemikirannya yang revolusioner, Aristoteles memberinya gelar sebagai filsuf pertama dalam sejarah umat manusia.&lt;/p&gt;
+&lt;p&gt;Tidak hanya filsafat, Thales juga mendalami astronomi dan geometri. Salah satu pencapaian terbesarnya di bidang geometri adalah metode brilian untuk mengukur tinggi Piramida Cheops. Konon, Thales pernah menanyakan tinggi piramida kepada para pendeta Mesir kuno, tetapi mereka enggan memberikan jawaban. Rasa penasarannya membuat Thales mencari solusi sendiri. Alih-alih mendaki piramida, ia menggunakan prinsip geometri sederhana.&lt;/p&gt;
+&lt;p&gt;aranya sangat cerdas. Ia menancapkan sebuah tongkat di tanah dekat piramida dan menunggu hingga bayangan tongkat sama panjangnya dengan tongkat itu sendiri. Pada saat yang sama, bayangan piramida juga akan sama panjangnya dengan tinggi piramida. Dengan mengukur panjang bayangan piramida dan menambahkan setengah dari lebar alasnya, Thales berhasil menghitung bahwa tinggi piramida tersebut adalah sekitar 481 kaki. Metode ini menjadi bukti nyata kejeniusan Thales dalam memecahkan masalah.&lt;/p&gt;
+&lt;p&gt;Selain kontribusinya dalam mengukur piramida, Thales juga dikenal karena teorema-teorema geometrinya yang fenomenal. Beberapa di antaranya adalah:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jika dua garis lurus saling bersilangan, sudut-sudut yang berlawanan akan memiliki besar yang sama.&lt;/li&gt;
+&lt;li&gt;Sebuah lingkaran selalu terbagi dua sama besar oleh diameternya.&lt;/li&gt;
+&lt;li&gt;Sudut keliling yang menghadap diameter lingkaran selalu membentuk sudut siku-siku.&lt;/li&gt;
+&lt;li&gt;Teorema Thales , yang menyatakan bahwa jika sebuah garis sejajar salah satu sisi segitiga, maka garis tersebut membagi sisi-sisi lainnya secara proporsional $\frac{AD}{AB} = \frac{AE}{AC} = \frac{DE}{BC}$ 
+. Teorema ini masih diajarkan hingga hari ini di sekolah-sekolah dan menjadi dasar penting dalam geometri.&lt;/li&gt;
+&lt;li&gt;Thales tidak hanya diakui sebagai filsuf pertama dunia, tetapi juga diyakini sebagai matematikawan pertama di muka bumi. Warisannya kemudian dilanjutkan oleh Pythagoras, yang juga dikenal luas atas kontribusinya dalam geometri. Menariknya, istri Pythagoras, Theano, dipercaya sebagai matematikawan wanita pertama dalam sejarah.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Dengan warisan pemikiran dan penemuannya, Thales membuktikan bahwa rasa ingin tahu dan akal sehat dapat membuka pintu menuju pengetahuan yang tak terbatas. Karya-karyanya terus menginspirasi dunia hingga saat ini, mengingatkan kita akan kekuatan pikiran manusia untuk memahami alam semesta.&lt;/p&gt;
 </description>
     </item>
     
@@ -222,7 +246,9 @@ pantang menyerah (persevering) (Barefoot Computing, 2020).&lt;/p&gt;
       <link>http://localhost:4321/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;
+
+$$\frac{1}{2}$$</description>
     </item>
     
     <item>
@@ -366,7 +392,7 @@ pantang menyerah (persevering) (Barefoot Computing, 2020).&lt;/p&gt;
 
 
 
-&lt;div id=&#34;chart-378461259&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-287319564&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -384,7 +410,7 @@ pantang menyerah (persevering) (Barefoot Computing, 2020).&lt;/p&gt;
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-378461259&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-287319564&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
