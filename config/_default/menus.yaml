@@ -13,7 +13,7 @@ main:
 #  - name: Papers
 #    url: /#papers
 #    weight: 11
-  - name: PPG 2024
+  - name: PPG Calon Guru 2024
     url: /tags
     weight: 12
 #  - name: Talks
