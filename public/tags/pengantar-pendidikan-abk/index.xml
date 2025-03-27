@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pengantar Pendidikan ABK | HDMath</title>
+    <link>http://localhost:4321/tags/pengantar-pendidikan-abk/</link>
+      <atom:link href="http://localhost:4321/tags/pengantar-pendidikan-abk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pengantar Pendidikan ABK</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu_645fa481986063ef.png</url>
+      <title>Pengantar Pendidikan ABK</title>
+      <link>http://localhost:4321/tags/pengantar-pendidikan-abk/</link>
+    </image>
+    
+    <item>
+      <title>Pengantar Pendidikan ABK</title>
+      <link>http://localhost:4321/project/ppabk/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/ppabk/</guid>
+      <description>&lt;p&gt;Deskripsi&lt;/p&gt;
+&lt;p&gt;Deskripsi
+Deskripsi
+Deskripsi
+Deskripsi&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prinsip Pengajaran Dan Asesmen | HDMath</title>
+    <link>http://localhost:4321/tags/prinsip-pengajaran-dan-asesmen/</link>
+      <atom:link href="http://localhost:4321/tags/prinsip-pengajaran-dan-asesmen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Prinsip Pengajaran Dan Asesmen</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu_645fa481986063ef.png</url>
+      <title>Prinsip Pengajaran Dan Asesmen</title>
+      <link>http://localhost:4321/tags/prinsip-pengajaran-dan-asesmen/</link>
+    </image>
+    
+    <item>
+      <title>Prinsip Pengajaran dan Asesmen</title>
+      <link>http://localhost:4321/project/ppa/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/ppa/</guid>
+      <description>&lt;p&gt;Deskripsi&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

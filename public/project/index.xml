@@ -5,7 +5,7 @@
     <link>http://localhost:4321/project/</link>
       <atom:link href="http://localhost:4321/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:4321/media/icon_hu_645fa481986063ef.png</url>
       <title>Projects</title>
@@ -13,42 +13,65 @@
     </image>
     
     <item>
-      <title>Math</title>
-      <link>http://localhost:4321/project/math/</link>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/math/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;
-&lt;h1 id=&#34;computational-thinking&#34;&gt;Computational Thinking&lt;/h1&gt;
-&lt;h2 id=&#34;topik-i&#34;&gt;Topik I&lt;/h2&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-
-$$\frac{1}{2}$$</description>
+      <title>Computational Thinking</title>
+      <link>http://localhost:4321/project/ct/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/ct/</guid>
+      <description>&lt;p&gt;Deskripsi&lt;/p&gt;
+&lt;p&gt;Deskripsi
+Deskripsi&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Pandas</title>
-      <link>http://localhost:4321/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+      <title>Pembelajaran Sosial Emosional</title>
+      <link>http://localhost:4321/project/pse/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/pse/</guid>
+      <description>&lt;p&gt;Deskripsi&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>PyTorch</title>
-      <link>http://localhost:4321/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
+      <title>Pengantar Pendidikan ABK</title>
+      <link>http://localhost:4321/project/ppabk/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/ppabk/</guid>
+      <description>&lt;p&gt;Deskripsi&lt;/p&gt;
+&lt;p&gt;Deskripsi
+Deskripsi
+Deskripsi
+Deskripsi&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:4321/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;
-
-$$\frac{1}{2}$$</description>
+      <title>Praktik Pengalaman Lapangan</title>
+      <link>http://localhost:4321/project/ppl/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/ppl/</guid>
+      <description>&lt;p&gt;Deskripsi&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Prinsip Pengajaran dan Asesmen</title>
+      <link>http://localhost:4321/project/ppa/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/ppa/</guid>
+      <description>&lt;p&gt;Deskripsi&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Projek Kepemimpinan</title>
+      <link>http://localhost:4321/project/pk/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/pk/</guid>
+      <description>&lt;p&gt;Deskripsi&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Seminar PPG</title>
+      <link>http://localhost:4321/project/seminar/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/seminar/</guid>
+      <description>&lt;p&gt;Deskripsi&lt;/p&gt;</description>
     </item>
     
   </channel>

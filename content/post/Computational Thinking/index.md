@@ -5,7 +5,7 @@ date: 2025-02-10
 authors:
   - admin
 tags:
-  - PPG-SEM II Computational Thinking
+  - Computational Thinking
 image:
   caption: 'Image : [**HDMath**]()'
 ---
