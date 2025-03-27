@@ -13,9 +13,6 @@ authors:
   - Ted
 
 tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
 ---
 
 Welcome 👋

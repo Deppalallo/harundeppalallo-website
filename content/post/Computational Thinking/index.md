@@ -5,8 +5,7 @@ date: 2025-02-10
 authors:
   - admin
 tags:
-  - Computational Thinking
-  - Markdown
+  - PPG-SEM II Computational Thinking
 image:
   caption: 'Image : [**HDMath**]()'
 ---
@@ -104,4 +103,6 @@ CT perlu terus dilatih melalui pendekatan mengutak-atik (tinkering), berlatih
 menciptakan sesuatu (creating), berusaha mencari akar masalah dan memperbaiki
 kesalahan tersebut (debugging), bekerja sama (collaborating), dan memiliki sikap
 pantang menyerah (persevering) (Barefoot Computing, 2020). 
+
+
 

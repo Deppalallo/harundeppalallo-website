@@ -10,15 +10,15 @@ main:
   - name: Experience
     url: experience/
     weight: 10
-  - name: Papers
-    url: /#papers
-    weight: 11
+#  - name: Papers
+#    url: /#papers
+#    weight: 11
   - name: PPG 2024
     url: /tags
     weight: 12
-  - name: Talks
-    url: /#talks
-    weight: 12
+#  - name: Talks
+#    url: /#talks
+#    weight: 12
   - name: Blog
     url: /#news
     weight: 13

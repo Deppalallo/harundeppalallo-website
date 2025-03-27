@@ -6,9 +6,6 @@ math: true
 authors:
   - admin
 tags:
-  - Hugo
-  - Hugo Blox Builder
-  - Markdown
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
@@ -32,8 +29,6 @@ Teach your course by sharing videos with your students. Choose from one of the f
 **Bilibili**:
 
     {{</* bilibili BV1WV4y1r7DF */>}}
-
-{{< bilibili BV1WV4y1r7DF >}}
 
 **Video file**
 
@@ -63,7 +58,14 @@ You found me!
 
 renders as
 
-{{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
+{{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 
+
+$$
+f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
+1-p_{0}^{*} & \text{if }k=0.\end{cases}
+$$
+
+{{< /spoiler >}}
 
 ## Math
 
@@ -135,3 +137,9 @@ renders as
 {{< icon name="python" >}} Python
 
 ## Did you find this page helpful? Consider sharing it 🙌
+
+    button:
+      text: 'Read Journal'
+      url: 'https://example.com'
+
+

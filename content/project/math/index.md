@@ -1,6 +1,6 @@
 ---
 title: Math
-date: 2023-10-26
+date: 2025-03-13
 external_link: ""
 tags:
 ---

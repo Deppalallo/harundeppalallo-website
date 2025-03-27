@@ -5,8 +5,6 @@ date: 2025-02-10
 authors:
   - admin
 tags:
-  - Galeri Matematika
-  - Markdown
 image:
   caption: 'Image : [**HDMath**]()'
 ---

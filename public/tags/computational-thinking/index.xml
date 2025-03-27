@@ -5,115 +5,12 @@
     <link>http://localhost:4321/tags/computational-thinking/</link>
       <atom:link href="http://localhost:4321/tags/computational-thinking/index.xml" rel="self" type="application/rss+xml" />
     <description>Computational Thinking</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
       <url>http://localhost:4321/media/icon_hu_645fa481986063ef.png</url>
       <title>Computational Thinking</title>
       <link>http://localhost:4321/tags/computational-thinking/</link>
     </image>
-    
-    <item>
-      <title>Computational Thinking</title>
-      <link>http://localhost:4321/post/computational-thinking/</link>
-      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/computational-thinking/</guid>
-      <description>&lt;h2 id=&#34;t1-pemahaman-computational-thinking&#34;&gt;T1. Pemahaman Computational Thinking&lt;/h2&gt;
-&lt;p&gt;Pada bagian konsep-konsep dasar CT ini dibahas mengenai definisi CT, apa yang termasuk CT dan bukan CT (miskonsepsi CT), mengapa CT itu penting, empat fondasi CT, pembentukan disposisi CT, dan apa yang perlu dilakukan untuk dapat “mengajar” CT.&lt;/p&gt;
-&lt;h3 id=&#34;apa-itu-ct-computational-thinking&#34;&gt;Apa itu CT (&lt;em&gt;Computational Thinking&lt;/em&gt;)&lt;/h3&gt;
-&lt;p&gt;CT adalah proses berpikir dalam memformulasikan persoalan dan
-berstrategi dalam menentukan/memilih solusi yang efektif, efisien, optimal untuk
-dikerjakan oleh agen pemroses informasi (solusi) tersebut.&lt;/p&gt;
-&lt;p&gt;Terdapat tiga elemen utama dalam CT:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Persoalan&lt;/strong&gt;
-adalah akar penyebab dari gejala yang muncul di permukaan. Misalnya, sakit kepala bisa disebabkan oleh kurang tidur, sakit gigi, atau tumor otak. Solusi yang diberikan harus sesuai dengan akar masalah. Kompleksitas persoalan dapat bervariasi, dari sederhana hingga kompleks, yang mungkin memerlukan strategi dan sumber daya tertentu.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Solusi Efektif, Efisien, dan Optimal :&lt;/strong&gt;
-&lt;strong&gt;Efektif&lt;/strong&gt;, yaitu solusi harus relevan dengan persoalan. Contoh: jika sakit kepala disebabkan oleh sakit gigi, solusi efektif adalah pergi ke dokter gigi.
-&lt;strong&gt;Efisien&lt;/strong&gt;, yaitu  solusi harus hemat dalam penggunaan sumber daya. Contoh: menggunakan panci kecil untuk memasak mie instan agar tidak boros air dan gas.
-&lt;strong&gt;Optimal&lt;/strong&gt;, yaitu solusi harus sesuai dengan kondisi atau batasan tertentu. Contoh: orang dengan diabetes memilih makanan rendah gula, sedangkan anak muda mungkin memilih makanan murah dan banyak porsi.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Agen Pemroses Informas :&lt;/strong&gt;
-Berupa manusia atau komputer. Manusia dapat menyelesaikan persoalan secara manual, sementara komputer membutuhkan instruksi spesifik, seperti rumus dalam spreadsheet. Meskipun alat yang digunakan berbeda, langkah-langkah penyelesaian persoalan pada dasarnya sama.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;karasteristik-ct-computational-thinking&#34;&gt;Karasteristik CT (&lt;em&gt;Computational Thinking&lt;/em&gt;)&lt;/h3&gt;
-&lt;p&gt;Berikut adalah karakteristik dari &lt;em&gt;Computational Thinking&lt;/em&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;CT berkaitan dengan konseptualisasi solusi, bukan pemrograman.&lt;/li&gt;
-&lt;li&gt;CT adalah cara berpikir seperti cara berpikir computer scientist, bukan untuk
-membuat manusia berpikir seperti komputer karena cara berpikir manusia jauh
-lebih kompleks dari komputer yang diciptakan dan diprogram oleh manusia.&lt;/li&gt;
-&lt;li&gt;CT dapat dimanfaatkan oleh semua orang dan untuk berbagai persoalan, bukan
-hanya orang-orang yang pekerjaannya berkaitan erat dengan komputer, atau
-persoalan-persoalan di bidang komputer saja.&lt;/li&gt;
-&lt;li&gt;CT berkaitan dengan ide, tidak terbatas pada artefak. CT tidak selalu berkaitan
-artefak perangkat lunak dan perangkat keras yang berperan pada kehidupan
-manusia. CT berkaitan dengan konsep komputasi yang digunakan untuk
-memecahkan persoalan, untuk mengelola kehidupan kita sehari-hari, dan untuk
-berkomunikasi serta berinteraksi dengan orang lain.&lt;/li&gt;
-&lt;li&gt;CT adalah keterampilan dasar, bukan hafalan. Hafalan berarti rutinitas mekanis.
-Keterampilan dasar adalah sesuatu yang perlu dikuasai agar seseorang dapat
-beradaptasi dalam masyarakat modern.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;mengapa-computational-thingking-penting&#34;&gt;Mengapa &lt;em&gt;Computational Thingking&lt;/em&gt; penting?&lt;/h3&gt;
-&lt;p&gt;Perkembangan era Industri 4.0, VUCA, dan Society 5.0 membawa perubahan signifikan di berbagai bidang, termasuk pendidikan. Lingkungan pembelajaran kini beralih ke ranah digital dengan pemanfaatan teknologi seperti IoT, AI, dan big data, sehingga informasi lebih mudah diakses oleh siswa. Guru tidak lagi menjadi sumber utama informasi, melainkan berperan sebagai fasilitator , sementara pembelajaran menjadi berpusat pada siswa.&lt;/p&gt;
-&lt;p&gt;Metode pembelajaran tradisional seperti ceramah sudah tidak relevan lagi. Sebagai gantinya, model pembelajaran seperti problem-based learning (berbasis masalah) dan project-based learning (berbasis proyek) lebih sesuai untuk era ini. Computational Thinking (CT), sebagai proses berpikir sistematis untuk menemukan solusi efektif, efisien, dan optimal, sangat cocok diintegrasikan ke dalam kedua model pembelajaran tersebut.&lt;/p&gt;
-&lt;p&gt;CT membantu individu menghadapi persoalan sederhana maupun kompleks dalam kehidupan sehari-hari. Contohnya, saat merencanakan perjalanan bersama teman, Anda perlu mengumpulkan informasi terkait aktivitas, anggaran, waktu, cuaca, dll., untuk memutuskan tujuan terbaik. Proses pengumpulan dan analisis informasi ini adalah salah satu bentuk penerapan CT. Dengan CT, kita dapat secara sistematis memecahkan masalah dan membuat keputusan yang tepat di tengah berbagai pilihan solusi.&lt;/p&gt;
-&lt;h3 id=&#34;empat-fondasi-computational-thingking&#34;&gt;Empat Fondasi &lt;em&gt;Computational Thingking&lt;/em&gt;&lt;/h3&gt;
-&lt;p&gt;CT memiliki empat fondasi yang menjadi landasan pemecahan persoalan yaitu
-dekomposisi (decomposition), algoritma (algorithm), pengenalan pola (pattern
-recognition), dan abstraksi (abstraction).&lt;/p&gt;
-&lt;div class=&#34;markmap&#34; style=&#34;height: 200px;&#34;&gt;
-
-&lt;pre&gt;- Fondasi CT
-  - Decomposition
-  - Pattern Recognition
-  - Abstraction
-  - Algorithm&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Dekomposisi&lt;/strong&gt;: Dekomposisi adalah pembagian persoalan ke dalam beberapa sub-persoalan yang lebih kecil.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Pengenalan pola&lt;/strong&gt;: Pengenalan pola adalah pengamatan atau analisis terhadap berbagai kesamaan yang ada di antara persoalan-persoalan. Jika seseorang telah berkali-kali menyelesaikan persoalan, diharapkan dapat menemukan pola
-dari persoalan-persoalan sejenis dan juga pola dari solusi-solusi yang dirancang/diimplementasikan.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Abstraksi&lt;/strong&gt;: Abstraksi adalah proses eliminasi bagian-bagian yang tidak relevan dari suatu persoalan. Dengan abstraksi, dapat dibuat suatu blueprint penyelesaian persoalan yang dapat digunakan untuk menyelesaikan persoalanpersoalan sejenis.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Algoritma&lt;/strong&gt;: Algoritma adalah langkah-langkah terurut untuk menyelesaikan suatu persoalan. Algoritma harus disusun dengan jelas, runtut, lengkap, efisien, dan tidak menyalahi batasan-batasan dalam persoalan tersebut.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/mUXo-S7gzds?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
-&lt;h3 id=&#34;pembentukan-disposisi&#34;&gt;Pembentukan Disposisi&lt;/h3&gt;
-&lt;p&gt;Disposisi pembelajaran atau dapat juga disebut “kebiasaan berpikir”
-mengacu pada cara di mana peserta didik terlibat dan berhubungan langsung dalam
-proses belajar. Disposisi pembelajaran mempengaruhi pendekatan pembelajaran
-peserta didik, dan oleh karena itu berpengaruh pula pada hasil belajar mereka.
-Disposisi pembelajaran dapat memajukan keterampilan, keterlibatan, dan
-pemahaman yang mendalam bagi peserta didik untuk hal yang sedang
-dipelajarinya.
-Pengembangan disposisi pembelajaran adalah hal yang sangat mendasar
-bagi siswa untuk mengembangkan kesadaran tentang cara mereka belajar dan
-membangun sikap belajar yang berguna bagi masa depan mereka.
-Terdapat tiga hal yang diperlukan untuk membentuk disposisi:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Kemampuan&lt;/strong&gt;: untuk pembentukan disposisi, tentu diperlukan kemampuan yang diperlukan pada bidang tertentu. Sebagai contoh, untuk membuat keputusan, diperlukan kemampuan untuk mempertimbangkan pro dan kontra untuk setiap pilihan yang ada.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Motivasi&lt;/strong&gt;: untuk dapat memikirkan suatu hal dengan serius, tidak cukup kemampuan saja, tapi diperlukan juga motivasi untuk menggunakan kemampuan tersebut. Sebagai contoh, untuk membuat keputusan, diperlukan motivasi untuk mau mempertimbangkan pro dan kontra untuk setiap pilihan yang ada.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Sensitivitas&lt;/strong&gt;: diperlukan juga sensitivitas akan saat yang tepat untuk menggunakan kemampuan berpikir tersebut. Sebagai contoh, untuk membuat keputusan, diperlukan kepekaan akan pentingnya pertimbangan pro dan kontra dari setiap pilihan yang ada.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Secara singkat, disposisi dapat diartikan sebagai kesiagaan seseorang untuk
-mengaplikasikan sebuah konsep pada momen ketika konsep tersebut diperlukan.
-Disposisi tidak serta merta terbentuk, melainkan dihasilkan dari proses
-belajar selama bertahun-tahun. Demikian juga dengan pembentukan disposisi CT.
-CT perlu terus dilatih melalui pendekatan mengutak-atik (tinkering), berlatih
-menciptakan sesuatu (creating), berusaha mencari akar masalah dan memperbaiki
-kesalahan tersebut (debugging), bekerja sama (collaborating), dan memiliki sikap
-pantang menyerah (persevering) (Barefoot Computing, 2020).&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
