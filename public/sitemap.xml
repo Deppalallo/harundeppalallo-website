@@ -14,10 +14,6 @@
     <lastmod>2025-03-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/computational-thinking/</loc>
-    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:4321/project/pse/</loc>
     <lastmod>2025-03-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -58,10 +54,6 @@
     <lastmod>2025-03-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tags/projek-kepemimpinan/</loc>
-    <lastmod>2025-03-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:4321/project/seminar/</loc>
     <lastmod>2025-03-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -79,6 +71,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:4321/post/computational-thinking---artefak/</loc>
+    <lastmod>2025-03-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tags/computational-thinking/</loc>
     <lastmod>2025-03-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
