@@ -15,7 +15,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: ''
-    twitter: 'GetResearchDev'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -33,14 +33,14 @@ header:
     blox: "navbar"
     fixed_to_top: true
     show_search: true
-    show_theme_chooser: false
+    show_theme_chooser: true
     logo:
-      text: "HDMath"
+      text: "Harun Deppalallo"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} HDMath'
+    notice: '© {year} Harun Deppalallo'
     license:
       enable: true
       allow_derivatives: false

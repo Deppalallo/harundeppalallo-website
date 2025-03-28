@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HDMath</title>
+    <title>Harun Deppalallo</title>
     <link>http://localhost:4321/</link>
       <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
-    <description>HDMath</description>
+    <description>Harun Deppalallo</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu_645fa481986063ef.png</url>
-      <title>HDMath</title>
+      <url>http://localhost:4321/media/icon_hu_8ae777a08ca87a54.png</url>
+      <title>Harun Deppalallo</title>
       <link>http://localhost:4321/</link>
     </image>
     
@@ -468,7 +468,7 @@ pantang menyerah (persevering) (Barefoot Computing, 2020).&lt;/p&gt;
 
 
 
-&lt;div id=&#34;chart-587236149&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-329586174&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -486,7 +486,7 @@ pantang menyerah (persevering) (Barefoot Computing, 2020).&lt;/p&gt;
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-587236149&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-329586174&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -649,6 +649,30 @@ Crash --&gt; [*]
       
         
           &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;1&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;&lt;/td&gt;
+        
+      
+    &lt;/tr&gt;
+  
+    &lt;tr&gt;
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;HDMath is a platform that I created to share ideas and knowledge that I have gained, both from my experiences at university and from independent learning. As a mathematics teacher, I am committed to continuing to learn and develop my understanding of mathematics and its teaching methods.&lt;/td&gt;
+        
+      
+        
+          &lt;td data-table-dtype=&#34;text&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;HDMath is a platform that I created to share ideas and knowledge that I have gained, both from my experiences at university and from independent learning. As a mathematics teacher, I am committed to continuing to learn and develop my understanding of mathematics and its teaching methods.&lt;/td&gt;
         
       
     &lt;/tr&gt;

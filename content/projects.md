@@ -20,4 +20,5 @@ sections:
       view: article-grid
       fill_image: true
       columns: 3
+      flip_alt_rows: false
 ---

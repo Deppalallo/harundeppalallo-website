@@ -11,7 +11,7 @@ last_name: Deppalallo
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -60,10 +60,10 @@ education:
     date_end: 2022-06-24
     summary: |
       
-    button:
-      text: 'Read Journal'
-      url: 'https://example.com'
-work:
+#    button:
+#      text: 'Read Journal'
+#      url: 'https://example.com'
+#work:
 #  - position: Director of Cloud Infrastructure
 #    company_name: GenCoin
 #    company_url: ''
